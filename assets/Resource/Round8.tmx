@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="landform" tilewidth="16" tileheight="16" tilecount="36">
+  <image source="landform/landform.png" trans="000000" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="37" name="grass" tilewidth="16" tileheight="16" tilecount="4">
+  <image source="landform/grass.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="41" name="blank" tilewidth="16" tileheight="16" tilecount="4">
+  <image source="landform/blank.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC6WTyQ7EIAxD09P0Mv//u3MZJMuys4GECiXk4SxPRDyLGQO7ju1XzMkbkKN8ZX4re76HnE3sunFgPdt3V9qD9pnvKv8BPpXfTI+yrWKl2O5cadtwlB6nX+07HLzL2tz7nR6uKZfjDkflcfIexQnj+7ZnkJNpmHAU12nY1HRWt1wXKvaT/ld3jg7kdHvPDcU9Q8WyqvGpvkl8b/PDsUOd2H9uctzU/bNnO9cPeKbyNeG4XlbDcVwdKAb+yzhVvtjW5eys3//3A+uKpfLXqdNJ3ak6qfpvyrkdN7wfJS0DAZAKAAA=
+  </data>
+ </layer>
+ <layer name="layer_1" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC93WwQoAIQgE0On/f3ovHRZZ0XBmFhI6hT6ItABPrL1cjtpa8FjRUXmZw/aquizzXaOqNTFjXrfGqTU5D1dPRNNpsb3snqr7QdF7HYPVb0pnkt/12eeQ7U/jy3HMa9Us+eOdAzRGdFx/hBviAXN5kWOQCgAA
+  </data>
+ </layer>
+</map>
